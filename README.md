@@ -60,7 +60,7 @@ worth building) are at [BADIDEAS.md](BADIDEAS.md).
 - [🎁 iOS OPDS File Provider](#-ios-opds-file-provider)
 - [iOS/MacOS \*sonic File Provider](#iosmacos-%5Csonic-file-provider)
 - [collaborative-bookmarking](#collaborative-bookmarking)
-- [👩‍🔬 Boardgame AI Gym](#%E2%80%8D-boardgame-ai-gym)
+- [👩‍🔬 Boardgame AI Gym](#-boardgame-ai-gym)
 - [🎁 ✨ Green/Yellow Pages](#--greenyellow-pages)
 - [🎁 communities browser extension](#-communities-browser-extension)
 - [onioncannon](#onioncannon)
@@ -87,6 +87,8 @@ worth building) are at [BADIDEAS.md](BADIDEAS.md).
 - [Price Index for Indian Grocery Websites](#price-index-for-indian-grocery-websites)
 - [Bangalore Adblock Art Project](#bangalore-adblock-art-project)
 - [PURL Canonicalization](#purl-canonicalization)
+- [✨ Local-First Cookbook](#-local-first-cookbook)
+- [✨ Local-First Health Records](#-local-first-health-records)
 - [Licence](#licence)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -147,7 +149,7 @@ https://github.com/tallpants/lightspeed
 
 WolframAlpha launched a [Personal Analytics](https://www.pcmag.com/news/hands-on-wolfram-alphas-personal-analytics-for-facebook)
 feature for your facebook data back in 2013. It is no longer accessible, but
-it generated some stock analytics and boring graphs. 
+it generated some stock analytics and boring graphs.
 
 They weren't really that helpful. I'd like an easy query interface that let me
 "filter" data points, and get back open-data via the Graph API. This means, for
@@ -1330,7 +1332,7 @@ Maybe automatically do this at install time, to wrap it.
 
 ## Probe the Great Indian Firewall
 
-The Great Indian Firewall is what blocks Indian Government websites from being accessed outside of India. 
+The Great Indian Firewall is what blocks Indian Government websites from being accessed outside of India.
 This is bad for multiple reasons, including accessibility, archivability, and usability. There's multiple
 ways this is applied, inculding:
 
@@ -1415,7 +1417,7 @@ hashtag, or a user, or a text pattern. However, the mute is always a
 binary thing - either you see it, or you don't.
 
 A well-stated problem with muting is the echo-chamber it creates. If you
-mute all mentions of [political-term] from your feed, it could be the 
+mute all mentions of [political-term] from your feed, it could be the
 equivalent of putting your head in the sand.
 
 A "Whisper" is a more nuanced version of this - instead of hiding away the
@@ -1500,6 +1502,27 @@ both refer to the same package, with different semantics. This makes matching PU
 quite difficult as two tools might encode the same package in two different ways.
 
 A canonicalization scheme would be helpful.
+
+## ✨ Local-First Cookbook
+
+Cooking websites are awful.
+[Cookbook](https://cookbookmanager.com/) is actually not that bad, but a
+subscription-based cookbook app seems ... insane?
+
+Recipes can't be copyrighted (copywritten?), so it would be possible to load up an
+offline-first, local-first cookbook on a cloudless device with a ton of searchable
+recipes based on what's online already.
+
+## ✨ Local-First Health Records
+
+Health records are still stuck in the stone ages, still country-specific,
+state/province-specific, or (worse) provider-specific.
+
+During my last health fiasco, I ended up taking photos of my health records and
+saving them in a WhatsApp group with some trusted friends. I don't really want
+these records on the cloud, using existing tech. Replicating the WhatsApp option
+with some (any) semantics, and a choice of which devices I save my records on,
+would be a great start and pretty easy to do.
 
 ---
 
