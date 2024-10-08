@@ -26,6 +26,17 @@ worth building) are at [BADIDEAS.md](BADIDEAS.md).
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 - [Introduction](#introduction)
+- [✨ Corporate Bookmarking](#-corporate-bookmarking)
+- [✨ Nextcloud Hosting](#-nextcloud-hosting)
+- [✨ Relay (Matrix)](#-relay-matrix)
+- [✨ Local-First Strava](#-local-first-strava)
+- [✨ One Mastodon To Rule Them All](#-one-mastodon-to-rule-them-all)
+- [✨ Local-First Evernote (Immutable Heap)](#-local-first-evernote-immutable-heap)
+- [✨ Personal Spotify](#-personal-spotify)
+- [✨ Nextflix](#-nextflix)
+- [✨ Local-First Cookbook](#-local-first-cookbook)
+- [✨ Local-First Health Records](#-local-first-health-records)
+- [✨ Social Media Secretary](#-social-media-secretary)
 - [✨🎁 Collaborative Bookmarking](#-collaborative-bookmarking)
 - [🚀Lightspeed for Chrome](#lightspeed-for-chrome)
 - [Personal Social Media Analytics](#personal-social-media-analytics)
@@ -87,8 +98,6 @@ worth building) are at [BADIDEAS.md](BADIDEAS.md).
 - [Price Index for Indian Grocery Websites](#price-index-for-indian-grocery-websites)
 - [Bangalore Adblock Art Project](#bangalore-adblock-art-project)
 - [PURL Canonicalization](#purl-canonicalization)
-- [✨ Local-First Cookbook](#-local-first-cookbook)
-- [✨ Local-First Health Records](#-local-first-health-records)
 - [Licence](#licence)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -103,6 +112,67 @@ interesting in that space, file a PR or send me a link.
 
 The emojis are just indicative. Make something people want is the YC motto, but
 sometimes you must make something for no good reason other than "just because".
+
+- [✨ Corporate Bookmarking](#-corporate-bookmarking)
+- [✨ Nextcloud Hosting](#-nextcloud-hosting)
+- [✨ Relay (Matrix)](#-relay-matrix)
+- [✨ Local-First Strava](#-local-first-strava)
+
+## ✨ Local-First Strava
+
+* social network is secondary
+* open source; privacy-focused
+
+## ✨ One Mastodon To Rule Them All
+
+* paid or ads
+* simple; patch "to to other server" bugs
+
+## ✨ Local-First Evernote (Immutable Heap)
+
+Shove data in here. Any kind. Search.
+(Not the note-taking part... nobody cares about that.)
+
+* https://www.onenote.com/ - Ankur suggests this is the spiritual successor but
+it looks like a notebook to me
+
+## ✨ Nextflix
+
+* open source, hosted Plex
+
+## ✨ Personal Spotify
+
+Subscription-based hosting of a personal music server.
+
+* Navidrome: https://www.navidrome.org/demo/
+* Navidrome code: https://github.com/navidrome/navidrome/
+* iSub: https://isub.app/
+* iSub code: https://github.com/einsteinx2/iSubMusicStreamer
+
+## ✨ Local-First Cookbook
+
+Cooking websites are awful.
+[Cookbook](https://cookbookmanager.com/) is actually not that bad, but a
+subscription-based cookbook app seems ... insane?
+
+Recipes can't be copyrighted (copywritten?), so it would be possible to load up an
+offline-first, local-first cookbook on a cloudless device with a ton of searchable
+recipes based on what's online already.
+
+## ✨ Local-First Health Records
+
+Health records are still stuck in the stone ages, still country-specific,
+state/province-specific, or (worse) provider-specific.
+
+During my last health fiasco, I ended up taking photos of my health records and
+saving them in a WhatsApp group with some trusted friends. I don't really want
+these records on the cloud, using existing tech. Replicating the WhatsApp option
+with some (any) semantics, and a choice of which devices I save my records on,
+would be a great start and pretty easy to do.
+
+## ✨ Social Media Secretary
+
+* manage all your social media accounts for you
 
 ## ✨🎁 Collaborative Bookmarking
 
@@ -1502,27 +1572,6 @@ both refer to the same package, with different semantics. This makes matching PU
 quite difficult as two tools might encode the same package in two different ways.
 
 A canonicalization scheme would be helpful.
-
-## ✨ Local-First Cookbook
-
-Cooking websites are awful.
-[Cookbook](https://cookbookmanager.com/) is actually not that bad, but a
-subscription-based cookbook app seems ... insane?
-
-Recipes can't be copyrighted (copywritten?), so it would be possible to load up an
-offline-first, local-first cookbook on a cloudless device with a ton of searchable
-recipes based on what's online already.
-
-## ✨ Local-First Health Records
-
-Health records are still stuck in the stone ages, still country-specific,
-state/province-specific, or (worse) provider-specific.
-
-During my last health fiasco, I ended up taking photos of my health records and
-saving them in a WhatsApp group with some trusted friends. I don't really want
-these records on the cloud, using existing tech. Replicating the WhatsApp option
-with some (any) semantics, and a choice of which devices I save my records on,
-would be a great start and pretty easy to do.
 
 ---
 
