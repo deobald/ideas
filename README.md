@@ -173,6 +173,7 @@ would be a great start and pretty easy to do.
 ## ✨ Social Media Secretary
 
 * manage all your social media accounts for you
+* Buffer.com already exists
 
 ## ✨🎁 Collaborative Bookmarking
 
