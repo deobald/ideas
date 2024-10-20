@@ -130,11 +130,14 @@ sometimes you must make something for no good reason other than "just because".
 
 ## ✨ Local-First Evernote (Immutable Heap)
 
-Shove data in here. Any kind. Search.
+Shove data in here. Any kind. It's chronological. Search.
 (Not the note-taking part... nobody cares about that.)
 
+* tags should be _very_ lazy ... just barf words, assume that search will work well
 * https://www.onenote.com/ - Ankur suggests this is the spiritual successor but
 it looks like a notebook to me
+* https://fantastic.earth/@jakelazaroff@mastodon.social/113335174297433723
+    * a `til` repo should really just be a searchable tag
 
 ## ✨ Nextflix
 
