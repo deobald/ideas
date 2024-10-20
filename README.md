@@ -26,6 +26,7 @@ worth building) are at [BADIDEAS.md](BADIDEAS.md).
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 - [Introduction](#introduction)
+- [✨ Vault](#-vault)
 - [✨ Corporate Bookmarking](#-corporate-bookmarking)
 - [✨ Nextcloud Hosting](#-nextcloud-hosting)
 - [✨ Relay (Matrix)](#-relay-matrix)
@@ -118,6 +119,11 @@ sometimes you must make something for no good reason other than "just because".
 - [✨ Relay (Matrix)](#-relay-matrix)
 - [✨ Local-First Strava](#-local-first-strava)
 
+## ✨ Vault
+
+* bitwarden = ded?
+* https://github.com/bitwarden/clients/issues/11611
+
 ## ✨ Local-First Strava
 
 * social network is secondary
@@ -138,6 +144,8 @@ Shove data in here. Any kind. It's chronological. Search.
 it looks like a notebook to me
 * https://fantastic.earth/@jakelazaroff@mastodon.social/113335174297433723
     * a `til` repo should really just be a searchable tag
+* https://fantastic.earth/@deshipu@fosstodon.org/111863497729075660
+    * indeed; why aren't all our computers just connected to each other by default?
 
 ## ✨ Nextflix
 
