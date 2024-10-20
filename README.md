@@ -26,15 +26,16 @@ worth building) are at [BADIDEAS.md](BADIDEAS.md).
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 - [Introduction](#introduction)
-- [✨ Vault](#-vault)
 - [✨ Corporate Bookmarking](#-corporate-bookmarking)
 - [✨ Nextcloud Hosting](#-nextcloud-hosting)
 - [✨ Relay (Matrix)](#-relay-matrix)
 - [✨ Local-First Strava](#-local-first-strava)
+- [✨ Vault](#-vault)
+- [✨ Local-First Strava](#-local-first-strava-1)
 - [✨ One Mastodon To Rule Them All](#-one-mastodon-to-rule-them-all)
 - [✨ Local-First Evernote (Immutable Heap)](#-local-first-evernote-immutable-heap)
-- [✨ Personal Spotify](#-personal-spotify)
 - [✨ Nextflix](#-nextflix)
+- [✨ Personal Spotify](#-personal-spotify)
 - [✨ Local-First Cookbook](#-local-first-cookbook)
 - [✨ Local-First Health Records](#-local-first-health-records)
 - [✨ Social Media Secretary](#-social-media-secretary)
@@ -114,10 +115,21 @@ interesting in that space, file a PR or send me a link.
 The emojis are just indicative. Make something people want is the YC motto, but
 sometimes you must make something for no good reason other than "just because".
 
-- [✨ Corporate Bookmarking](#-corporate-bookmarking)
-- [✨ Nextcloud Hosting](#-nextcloud-hosting)
-- [✨ Relay (Matrix)](#-relay-matrix)
-- [✨ Local-First Strava](#-local-first-strava)
+## ✨ Corporate Bookmarking
+
+* shared bookmarks for office environments / projects
+
+## ✨ Nextcloud Hosting
+
+* just that.
+
+## ✨ Relay (Matrix)
+
+* couldn't it be simpler and nicer? old slack, basically
+
+## ✨ Local-First Strava
+
+* not sure how best to sync, though... maybe this is mostly f/oss strava
 
 ## ✨ Vault
 
