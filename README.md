@@ -127,6 +127,14 @@ sometimes you must make something for no good reason other than "just because".
 
 * couldn't it be simpler and nicer? old slack, basically
 
+## Open Hardware Exercise Equipment
+
+* why the hell cant my garmin watch connect to my gyms matrix stationary bike. this industry sucks. 
+
+## Open Hardware Power Tools
+
+* someone should go to jail for 7 competing battery standards. 
+
 ## ✨ Local-First Strava
 
 * not sure how best to sync, though... maybe this is mostly f/oss strava
