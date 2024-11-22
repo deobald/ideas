@@ -118,43 +118,15 @@ sometimes you must make something for no good reason other than "just because".
 ## ✨ Corporate Bookmarking
 
 * shared bookmarks for office environments / projects
+* personal use case: single-click memory of URLs
+* Zotero use case: proper research
+* how do you organize without the intranet / confluence wiki gnome problem?
 
 ## ✨ Nextcloud Hosting
 
 * just that.
 
-## ✨ Relay (Matrix)
-
-* couldn't it be simpler and nicer? old slack, basically
-
-## Open Hardware Exercise Equipment
-
-* why the hell cant my garmin watch connect to my gyms matrix stationary bike. this industry sucks. 
-
-## Open Hardware Power Tools
-
-* someone should go to jail for 7 competing battery standards. 
-
-## ✨ Local-First Strava
-
-* not sure how best to sync, though... maybe this is mostly f/oss strava
-
-## ✨ Vault
-
-* bitwarden = ded?
-* https://github.com/bitwarden/clients/issues/11611
-
-## ✨ Local-First Strava
-
-* social network is secondary
-* open source; privacy-focused
-
-## ✨ One Mastodon To Rule Them All
-
-* paid or ads
-* simple; patch "to to other server" bugs
-
-## ✨ Local-First Evernote (Immutable Heap)
+## ✨ Kaya: Local-First Immutable Heap (Evernote?)
 
 Shove data in here. Any kind. It's chronological. Search.
 (Not the note-taking part... nobody cares about that.)
@@ -167,11 +139,48 @@ it looks like a notebook to me
 * https://fantastic.earth/@deshipu@fosstodon.org/111863497729075660
     * indeed; why aren't all our computers just connected to each other by default?
 
-## ✨ Nextflix
+## ✨ Maha Kaya: Local-First NAS (Tarsnap?)
+
+Tarsnap, but just encrypted files between your friends.
+An extension of LoFi Heap Kaya? (The lofi heap could also be saved here, since it's <500gb, probably.)
+
+* https://www.tarsnap.com/
+
+## ✨ Relay (Matrix)
+
+* couldn't it be simpler and nicer? old slack, basically
+
+## ✨ One Mastodon To Rule Them All
+
+* paid or ads
+* simple; patch "to to other server" bugs
+* auto-sync to bluesky
+* allow bluesky follows
+
+## Open Hardware Exercise Equipment
+
+* why the hell cant my garmin watch connect to my gyms matrix stationary bike. this industry sucks. 
+
+## Open Hardware Power Tools
+
+* someone should go to jail for 7 competing battery standards. 
+
+## Vault
+
+* bitwarden = ded?
+* https://github.com/bitwarden/clients/issues/11611
+
+## Local-First Strava
+
+* social network is secondary
+* open source; privacy-focused
+* not sure how best to sync, though... maybe this is mostly f/oss strava
+
+## Nextflix
 
 * open source, hosted Plex
 
-## ✨ Personal Spotify
+## Personal Spotify
 
 Subscription-based hosting of a personal music server.
 
@@ -180,7 +189,7 @@ Subscription-based hosting of a personal music server.
 * iSub: https://isub.app/
 * iSub code: https://github.com/einsteinx2/iSubMusicStreamer
 
-## ✨ Local-First Cookbook
+## Local-First Cookbook
 
 Cooking websites are awful.
 [Cookbook](https://cookbookmanager.com/) is actually not that bad, but a
@@ -190,7 +199,7 @@ Recipes can't be copyrighted (copywritten?), so it would be possible to load up 
 offline-first, local-first cookbook on a cloudless device with a ton of searchable
 recipes based on what's online already.
 
-## ✨ Local-First Health Records
+## Local-First Health Records
 
 Health records are still stuck in the stone ages, still country-specific,
 state/province-specific, or (worse) provider-specific.
@@ -201,7 +210,7 @@ these records on the cloud, using existing tech. Replicating the WhatsApp option
 with some (any) semantics, and a choice of which devices I save my records on,
 would be a great start and pretty easy to do.
 
-## ✨ Social Media Secretary
+## Social Media Secretary
 
 * manage all your social media accounts for you
 * Buffer.com already exists
