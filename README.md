@@ -26,6 +26,8 @@ worth building) are at [BADIDEAS.md](BADIDEAS.md).
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 - [Introduction](#introduction)
+- [✨ Time Tracker](#-time-tracker)
+- [✨ Open Source Voting Service](#-open-source-voting-service)
 - [✨ Corporate Bookmarking](#-corporate-bookmarking)
 - [✨ Nextcloud Hosting](#-nextcloud-hosting)
 - [✨ Relay (Matrix)](#-relay-matrix)
@@ -214,6 +216,14 @@ would be a great start and pretty easy to do.
 
 * manage all your social media accounts for you
 * Buffer.com already exists
+
+## ✨ Time Tracker
+
+* Harvest is still silly
+
+## ✨ Open Source Voting Service
+
+* why is this proprietary: https://www.simplyvoting.com/
 
 ## ✨🎁 Collaborative Bookmarking
 
