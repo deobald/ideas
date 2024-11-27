@@ -135,7 +135,13 @@ sometimes you must make something for no good reason other than "just because".
 Shove data in here. Any kind. It's chronological. Search.
 (Not the note-taking part... nobody cares about that.)
 
-* tags should be _very_ lazy ... just barf words, assume that search will work well
+### One-Liners
+
+* "searchable recycle bin"
+* immutable file store
+
+### Alternatives That Suck
+
 * https://www.onenote.com/ - Ankur suggests this is the spiritual successor but
 it looks like a notebook to me
 * https://fantastic.earth/@jakelazaroff@mastodon.social/113335174297433723
@@ -158,6 +164,7 @@ let's call this thing "heap". here's a bullet point list of the things i want in
 - all apps: the main view is a timeline you can scrub back and forth, preferably with platform-specific previews of files. hopefully not very fancy.
 - all apps: index into files to help with search
 - all apps: type a little searchable message(s) to attach to a file so it's easier to find later. tags... but long-form if you want.
+    - tags should be _very_ lazy ... just barf words, assume that search will work well
 
 some maybes / future features:
 - web: drop a file on the (SaaS, probs) app to add it to the heap
