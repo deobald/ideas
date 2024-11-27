@@ -172,6 +172,7 @@ some maybes / future features:
 - email: email yourself (to SaaS, probs) = maybe to steven@heap.com or whatever (the Gmail behaviour, verbatim)
 - OCR: "indexing into files" should also OCR images (a la Evernote)
 - maybe there is some way to chain files into a "thread", like you would in Gmail (aka "these files are related, somehow, across time") ... this feels like a very risky complication to add, though.
+- maybe you can click a button to [squirt](https://forums.appleinsider.com/discussion/67512/ballmer-claims-microsoft-wont-lose-money-on-zune) a file at someone else who also has Heap installed
 
 some maybes / future NFRs:
 - maybe there is some way to force delete a file (at least for legal reasons, if there's a SaaS)
@@ -179,6 +180,13 @@ some maybes / future NFRs:
 - maybe there is a way to flag files as "large" so they don't go to disk-limited devices... but god i hope not
 - maybe there are all sorts of other ways to configure this thing under Advanced Settings. but i really, really hope not. technical features bad. go install syncthing if you want syncthing.
 
+### Ankur's Take
+
+I’m extremely into this and I would 100% use it all the time.
+
+After years of note taking I’ve found that the only reasonable way to take note is chronologically. Same way you’d do in a notebook. Old notes don’t get edited or deleted, only new ones get added. New notes can link to old notes if something needs to change, and Obsidian back links create the appropriate context to figure out the change.
+
+Heap sounds like that, but for files. This is how my brain works already, so I’d use it for basically all my important files that are not code.
 
 ## ✨ Maha Kaya: Local-First NAS (Tarsnap?)
 
