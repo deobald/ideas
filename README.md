@@ -140,6 +140,14 @@ Shove data in here. Any kind. It's chronological. Search.
 * "searchable recycle bin"
 * immutable file store
 
+### Alternatives That Are Too Nerdy
+
+These are cool, actually, but too linuxy/foss-focused and too powerful.
+They could be the base of a Kaya implementation.
+
+* camlistore / PerKeep
+* Syncthing
+
 ### Alternatives That Suck
 
 * https://www.onenote.com/ - Ankur suggests this is the spiritual successor but
