@@ -30,6 +30,7 @@ worth building) are at [BADIDEAS.md](BADIDEAS.md).
 - [✨ Nextcloud Hosting](#-nextcloud-hosting)
 - [✨ Kaya: Local-First Immutable Heap (Evernote?)](#-kaya-local-first-immutable-heap-evernote)
 - [✨ Maha Kaya: Local-First NAS (Tarsnap?)](#-maha-kaya-local-first-nas-tarsnap)
+- [✨ Instagram (Pixelfed, but good)](#-instagram-pixelfed-but-good)
 - [✨ Relay (Matrix)](#-relay-matrix)
 - [✨ One Mastodon To Rule Them All](#-one-mastodon-to-rule-them-all)
 - [Open Hardware Exercise Equipment](#open-hardware-exercise-equipment)
@@ -203,6 +204,16 @@ An extension of LoFi Heap Kaya? (The lofi heap could also be saved here, since i
 
 * https://www.tarsnap.com/
 
+## ✨ Instagram (Pixelfed, but good)
+
+* deprioritize the web app to the degree Instagram does
+* DMs - they're important
+* Flutter is good enough for this, actually
+    * mobile client defaults to central service; federated, but secondary
+* build the Insta of old: almost no UI, square images by default, make it easy to post
+* ads? you don't really need to stalk users around the internet to show them something relevant
+    * pay a small monthly fee to avoid ads
+
 ## ✨ Relay (Matrix)
 
 * couldn't it be simpler and nicer? old slack, basically
@@ -274,7 +285,7 @@ would be a great start and pretty easy to do.
 
 ## ✨ Time Tracker
 
-* Harvest is still silly 
+* Harvest is still silly
 * https://bsky.app/profile/matt.godbolt.org/post/3lfhy3lpcoc24
 
 
