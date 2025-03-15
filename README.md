@@ -30,8 +30,9 @@ worth building) are at [BADIDEAS.md](BADIDEAS.md).
 - [✨ Nextcloud Hosting](#-nextcloud-hosting)
 - [✨ Kaya: Local-First Immutable Heap (Evernote?)](#-kaya-local-first-immutable-heap-evernote)
 - [✨ Maha Kaya: Local-First NAS (Tarsnap?)](#-maha-kaya-local-first-nas-tarsnap)
-- [✨ Instagram (Pixelfed, but good)](#-instagram-pixelfed-but-good)
 - [✨ Relay (Matrix)](#-relay-matrix)
+- [✨ Open Ad Network (Federated Ads)](#-open-ad-network-federated-ads)
+- [✨ Instagram (Pixelfed, but good)](#-instagram-pixelfed-but-good)
 - [✨ One Mastodon To Rule Them All](#-one-mastodon-to-rule-them-all)
 - [Open Hardware Exercise Equipment](#open-hardware-exercise-equipment)
 - [Open Hardware Power Tools](#open-hardware-power-tools)
@@ -204,6 +205,16 @@ An extension of LoFi Heap Kaya? (The lofi heap could also be saved here, since i
 
 * https://www.tarsnap.com/
 
+## ✨ Relay (Matrix)
+
+* couldn't it be simpler and nicer? old slack, basically
+
+## ✨ Open Ad Network (Federated Ads)
+
+* what would a federated ad protocol look like?
+* ads would have to be relevant and privacy-preserving, because it would be very easy to block
+* open lists of advertisers would be exposed, so transparency is inherent
+
 ## ✨ Instagram (Pixelfed, but good)
 
 * deprioritize the web app to the degree Instagram does
@@ -213,10 +224,7 @@ An extension of LoFi Heap Kaya? (The lofi heap could also be saved here, since i
 * build the Insta of old: almost no UI, square images by default, make it easy to post
 * ads? you don't really need to stalk users around the internet to show them something relevant
     * pay a small monthly fee to avoid ads
-
-## ✨ Relay (Matrix)
-
-* couldn't it be simpler and nicer? old slack, basically
+* videos? could you get by without them or make them a separate app?
 
 ## ✨ One Mastodon To Rule Them All
 
